@@ -1,4 +1,4 @@
-tic tic tic
-pum pum pum
-hello my dear friend
-glad to see you
+tic tic tic;
+pum pum pum;
+hello my dear friend;
+glad to see you;
