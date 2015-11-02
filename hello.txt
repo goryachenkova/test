@@ -1,2 +1,2 @@
-tic tic tic
-pum pum pum
+tic tic tic;
+pum pum pum;
