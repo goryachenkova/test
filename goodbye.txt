@@ -1,1 +1,2 @@
-new class
+new class;
+can't stop it;
